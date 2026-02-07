@@ -25,7 +25,7 @@ const Features = () => {
                     Experience Daly College Through Our Publications.
                 </p>
             </div>
-            import {FiArrowRight} from "react-icons/fi";
+            
 
             <div className="flex flex-col sm:flex-row justify-center gap-6.5 px-4 pb-20">
                 {/* CARD 1 */}
